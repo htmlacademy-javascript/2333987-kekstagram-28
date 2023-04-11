@@ -1,5 +1,6 @@
 import {checkLength, checkRepeats} from './utils.js';
 
+
 const COMMENT_MAX_LENGTH = 140;
 const HASHTAG_MAX_LENGTH = 19;
 const HASHTAG_REGEX = /^#[a-zа-яё0-9]{1,19}$/i;
